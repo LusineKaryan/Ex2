@@ -1,7 +1,10 @@
+@media screen and (max-width 401px);
+
 .page{
    text-align: center;
    font-size: 40px;
-}    
+    }    
+    
     .menu{
         background: rgb(97, 132, 228);
         height: 80px;
@@ -17,6 +20,7 @@
     padding: 140px; 
     }
 
+   
     .sign-up{
     background: rgb(193, 230, 252);
     padding: 60px; 
@@ -24,15 +28,20 @@
 
     .feature-1{
     background: rgb(231, 196, 121);
-    padding: 70px;    
+    padding: 70px;  
     }
 
     .feature-2{
     background: rgb(231, 113, 139);
-    padding: 70px;    
+    padding: 70px; 
+
     }
     
     .feature-3{
     background: rgb(145, 162, 206);
     padding: 70px;    
     }
+
+   
+
+    
